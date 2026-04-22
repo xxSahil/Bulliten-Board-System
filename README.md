@@ -2,6 +2,8 @@
 
 A multithreaded client-server bulletin board system built in Java using TCP sockets. The project supports concurrent clients, a custom application-layer protocol, synchronized shared-state operations, and a Swing-based GUI client.
 
+Video Demo: https://youtu.be/YkI4n7fMtM0
+
 ## Features
 
 - Multithreaded TCP server with thread-per-client handling
